@@ -62,10 +62,10 @@ body {
   font-size: 18px;
 }
 
-#btn0:hover,
-#btn1:hover,
-#btn2:hover,
-#btn3:hover {
+#btn0:active,
+#btn1:active,
+#btn2:active,
+#btn3:active {
   cursor: pointer;
   background-color: #57636e;
 }
