@@ -7,11 +7,12 @@
    box-sizing: border-box;
 }
 
+
 body {
   padding: 0;
   border: 0;
   background-color: #ccc;
-  background-image: url('./img/tweed_@2x.png');
+  background-image: url('./img/tweed_@2X.png');
   font-family: 'Raleway', sans-serif;
 }
 
