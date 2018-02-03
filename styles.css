@@ -11,7 +11,7 @@ body {
   padding: 0;
   border: 0;
   background-color: #ccc;
-  background-image: url('.../img/tweed_@2X.png');
+  background-image: url('./img/tweed_@2X.png');
   font-family: 'Raleway', sans-serif;
 }
 
@@ -62,10 +62,10 @@ body {
   font-size: 18px;
 }
 
-#btn0:active,
-#btn1:active,
-#btn2:active,
-#btn3:active {
+#btn0:hover,
+#btn1:hover,
+#btn2:hover,
+#btn3:hover {
   cursor: pointer;
   background-color: #57636e;
 }
@@ -89,15 +89,6 @@ p #question {
     padding: 5px;
     font-size: 18px;
   }
-   
-   #btn0:hover,
-   #btn1:hover,
-   #btn2:hover,
-   #btn3:hover {
-   cursor: pointer;
-   background-color: #777e85;
- }
-
 
   p {
     font-size: 10px;
